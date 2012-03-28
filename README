@@ -12,3 +12,10 @@ Ruben Rocha (Owner) - Creator of WinScreen and Main developer. [!RRuben4Rig]
 Chris S - Basically the Secondary developer; Helped fix many errors. [!b/cd2dRON OR SomeFagp/.]
 
 Made for the /g/uys at /g/ with love from !RRuben4Rig
+
+Usage:
+Winscreen [Options]
+
+Options:
+--help, -help, /help - Shows the help screen
+--art, -art, /art - Uses an alternate logo, was requested.
