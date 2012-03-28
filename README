@@ -17,5 +17,5 @@ Usage:
 Winscreen [Options]
 
 Options:
---help, -help, /help - Shows the help screen
+--help, -help, /help - Shows the help screen.
 --art, -art, /art - Uses an alternate logo, was requested.
