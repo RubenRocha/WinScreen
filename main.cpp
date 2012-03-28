@@ -22,7 +22,8 @@ int main(int argc, char *argv[], int wutdo)
     switch(wutdo)
     {
     case 0:
-        printf("Developers: \n");
+		printf("Usage:\n Winscreen [Options]\nOptions:\n\n --help, -help, /help - Shows the help screen\n --art, -art, /art - Uses an alternate logo, was requested.\n");
+        printf("\nDevelopers: \n");
         writeColor(red, "	Ruben R(Rdogg) - Main developer [!RRuben4Rig]\n");
         writeColor(lblue, "	Chris S(Someguy123) - Secondary developer [!b/cd2dRON OR SomeFagp/.]\n");
         break;
